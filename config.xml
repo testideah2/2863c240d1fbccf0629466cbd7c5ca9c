@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.vtelege.app"
         versionCode = "10"
-        version     = "1.19.0">
+        version     = "1.20.0">
 
     <name>VTelegeBeta</name>
 
