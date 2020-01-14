@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.vtelege.app"
         versionCode = "10"
-        version     = "1.25.0">
+        version     = "1.26.0">
 
     <name>VTelegeBeta</name>
 
@@ -54,20 +54,20 @@
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/f4d019fa45083ab49b85232022d72afa.png" width="180" height="180" />
-        <icon src="res/ios/icon/d9b236da7355caf4b1472b6109f7a668.png" width="60" height="60" />
-        <icon src="res/ios/icon/ac4cdc6dbef9f908fc835e081680a12e.png" width="120" height="120" />
-        <icon src="res/ios/icon/0dbd61c40ebce243e9298ca117329643.png" width="76" height="76" />
-        <icon src="res/ios/icon/f8152302645d420cf33fc1f8de947345.png" width="152" height="152" />
-        <icon src="res/ios/icon/72805ed134d2b047e6a5d34b5282aa51.png" width="57" height="57" />
-        <icon src="res/ios/icon/27fdaea3827495c3c88ee6e4a79a34e4.png" width="114" height="114" />
-        <icon src="res/ios/icon/8095cd4515df37f0c3e5a7522f788d4a.png" width="72" height="72" />
-        <icon src="res/ios/icon/f58c29001be6b6217e14275ed19e06a9.png" width="144" height="144" />
-        <icon src="res/ios/icon/e31c38040ac7f5511e95d13a0161dfad.png" width="167" height="167" />
-        <icon src="res/ios/icon/3058b4492275b3ecedb86d66dc98cccc.png" width="29" height="29" />
-        <icon src="res/ios/icon/66a78d00eb24ed711c0b8999e6628793.png" width="58" height="58" />
-        <icon src="res/ios/icon/0f9f8e8cb38e3380811d34f09a6acde0.png" width="87" height="87" />
-        <icon src="res/ios/icon/ba344ad905230916e5f268c654363301.png" width="167" height="167" />
+        <icon src="res/ios/icon/667dca9b7406bc5948f3624da0eded9d.png" width="180" height="180" />
+        <icon src="res/ios/icon/4c845ada4ea79fd2afe6a602839ab6d9.png" width="60" height="60" />
+        <icon src="res/ios/icon/ca2460cabb768b0608d00830023834e5.png" width="120" height="120" />
+        <icon src="res/ios/icon/14f786afd6018762fa90c591b8a7f5b6.png" width="76" height="76" />
+        <icon src="res/ios/icon/4f0c847137d2c4b2b27e03ac943842e9.png" width="152" height="152" />
+        <icon src="res/ios/icon/6e295dffbaded9e828dffc21d5762f49.png" width="57" height="57" />
+        <icon src="res/ios/icon/711fbc2ee5fce40e40c845e05ac2d890.png" width="114" height="114" />
+        <icon src="res/ios/icon/185f6577b037a3e38b6ad0c01db4782e.png" width="72" height="72" />
+        <icon src="res/ios/icon/80da857ab7ad1748332d65b80beebb56.png" width="144" height="144" />
+        <icon src="res/ios/icon/8fad550fef2287f16177b60887b12328.png" width="167" height="167" />
+        <icon src="res/ios/icon/0dc328c17756c497370a7a395ef65a15.png" width="29" height="29" />
+        <icon src="res/ios/icon/ed7426caac1fa578033d4062bca59d48.png" width="58" height="58" />
+        <icon src="res/ios/icon/bb88e42189a0b0de2a488ba9685bc931.png" width="87" height="87" />
+        <icon src="res/ios/icon/5fe319aa481f8a314895673710e94caf.png" width="167" height="167" />
 
         <splash src="res/ios/screen/3fa064ba7b663ea4ce7e47efdf2f661d.png" />
         <splash src="res/ios/screen/372163770d27855656fb4e9dda7958be.png" />
